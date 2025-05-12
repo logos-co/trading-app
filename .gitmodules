@@ -1,0 +1,6 @@
+[submodule "vendor/SortFilterProxyModel"]
+	path = vendor/SortFilterProxyModel
+	url = https://github.com/status-im/SortFilterProxyModel.git
+[submodule "vendor/qzxing"]
+	path = vendor/qzxing
+	url = https://github.com/status-im/qzxing.git
