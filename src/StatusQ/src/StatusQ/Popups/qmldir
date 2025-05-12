@@ -1,0 +1,19 @@
+module StatusQ.Popups
+
+StatusAction 0.1 StatusAction.qml
+StatusColorDialog 0.1 StatusColorDialog.qml
+StatusConfirmationDialog 0.1 StatusConfirmationDialog.qml
+StatusDialog 0.1 StatusDialog.qml
+StatusMenu 0.1 StatusMenu.qml
+StatusMenuHeadline 0.1 StatusMenuHeadline.qml
+StatusMenuItem 0.1 StatusMenuItem.qml
+StatusMenuInstantiator 0.1 StatusMenuInstantiator.qml
+StatusMenuSeparator 0.1 StatusMenuSeparator.qml
+StatusModal 0.1 StatusModal.qml
+StatusModalDivider 0.1 StatusModalDivider.qml
+StatusSearchLocationMenu 0.1 StatusSearchLocationMenu.qml
+StatusSearchPopup 0.1 StatusSearchPopup.qml
+StatusSearchPopupMenuItem 0.1 StatusSearchPopupMenuItem.qml
+StatusSimpleTextPopup 0.1 StatusSimpleTextPopup.qml
+StatusStackModal 0.1 StatusStackModal.qml
+StatusSuccessAction 0.1 StatusSuccessAction.qml

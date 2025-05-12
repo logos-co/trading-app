@@ -1,0 +1,3 @@
+module utils
+singleton WalletUtils 1.0 WalletUtils.qml
+singleton LocaleUtils 1.0 LocaleUtils.qml 

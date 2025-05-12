@@ -2,5 +2,9 @@
     <qresource prefix="/">
         <file>main.qml</file>
         <file>Market/MarketLayout.qml</file>
+        <file>Market/qmldir</file>
+        <file>utils/LocaleUtils.qml</file>
+        <file>utils/WalletUtils.qml</file>
+        <file>utils/qmldir</file>
     </qresource>
 </RCC> 

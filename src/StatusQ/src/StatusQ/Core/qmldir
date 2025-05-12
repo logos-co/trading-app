@@ -1,0 +1,20 @@
+module StatusQ.Core
+
+StatusAnimatedStack 0.1 StatusAnimatedStack.qml
+StatusAssetSettings 0.1 StatusAssetSettings.qml
+StatusBaseText 0.1 StatusBaseText.qml
+StatusCenteredFlow 0.1 StatusCenteredFlow.qml
+StatusFontSettings 0.1 StatusFontSettings.qml
+StatusGridView 0.1 StatusGridView.qml
+StatusIcon 0.1 StatusIcon.qml
+StatusIconWithTooltip 0.1 StatusIconWithTooltip.qml
+StatusIdenticonRingSettings 0.1 StatusIdenticonRingSettings.qml
+StatusListView 0.1 StatusListView.qml
+StatusModalHeaderSettings 0.1 StatusModalHeaderSettings.qml
+StatusMouseArea 0.1 StatusMouseArea.qml
+StatusProfileImageSettings 0.1 StatusProfileImageSettings.qml
+StatusRollArea 0.1 StatusRollArea.qml
+StatusScrollView 0.1 StatusScrollView.qml
+singleton StatusSharedUpdateTimer 0.1 StatusSharedUpdateTimer.qml
+StatusTooltipSettings 0.1 StatusTooltipSettings.qml
+singleton LocaleUtils 0.1 LocaleUtils.qml
